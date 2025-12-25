@@ -1,0 +1,7 @@
+# Игнорируем временные файлы
+notebooks/__pycache__/
+util/__pycache__/
+
+# Игнорируем большие датасеты
+LUNA_dataset/
+data-unversioned/
